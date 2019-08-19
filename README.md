@@ -13,3 +13,10 @@ To understand the training model in depth visit this link:
 https://github.com/tensorflow/models/tree/master/research/inception
 
 This training model uses a learning method called transfer learning.
+
+Here are some screenshots of the programm running:
+![Gun](gun.png)
+
+![hammer](hammer.png)
+
+![knives](knive.png)
