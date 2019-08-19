@@ -19,4 +19,4 @@ Here are some screenshots of the programm running:
 
 ![hammer](hammer.png)
 
-![knives](knive.png)
+![knife](knife.png)
